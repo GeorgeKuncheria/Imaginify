@@ -1,8 +1,10 @@
-import React from 'react'
 
-const ProfilePage:React.FC = () => {
+
+const ProfilePage:React.FC = async () => {
+
+
   return (
-    <div>ProfilePage</div>
+    <div></div>
   )
 }
 

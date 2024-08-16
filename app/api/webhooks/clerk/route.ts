@@ -67,7 +67,7 @@ export async function POST(req: Request) {
     const user = {
       clerkId: id,
       email: email_addresses[0].email_address,
-      username: username!,
+      username: username || '',
       firstName: first_name || '', // Ensure firstName is always a string
       lastName: last_name || '', // Ensure lastName is always a string
       photo: image_url,
