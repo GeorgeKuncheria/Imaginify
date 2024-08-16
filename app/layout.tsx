@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description: "AI SaaS Application",
 };
 
-export default function RootLayout({children,}: Readonly<{children: React.ReactNode;}>) {
+export default function RootLayout({children}: Readonly<{children: React.ReactNode;}>) {
   return (
     <ClerkProvider appearance={{
       variables:{
