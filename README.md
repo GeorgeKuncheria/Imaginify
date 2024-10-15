@@ -1,7 +1,7 @@
 
 # 🖼️ AI Image SaaS Platform
 
-Welcome to the AI Image SaaS platform! This application provides state-of-the-art image processing capabilities, integrates secure payment options, and includes a host of AI-powered features. Whether you're looking to enhance images, remove unwanted objects, or perform advanced searches, this platform has everything you need. Inspired by JavaScript Mastery's in-depth tutorial, this project is an excellent addition to your portfolio and a learning resource.
+Welcome to the AI Image SaaS platform! This application provides state-of-the-art image processing capabilities, integrates secure payment options, and includes a host of AI-powered features. Whether you're looking to enhance images, remove unwanted objects, or perform advanced searches, this platform has everything you need. 
 
 ## 🚀 Features
 
@@ -237,6 +237,3 @@ This project offers advanced features and follows best practices in web developm
 - [Cloudinary Documentation](https://cloudinary.com/documentation)
 - [Stripe Integration](https://stripe.com/docs)
 
-## 🤝 Join the Community
-
-If you're facing any issues or need guidance, join the [JavaScript Mastery Discord](https://discord.com/) where 27k+ members actively collaborate and help each other out.
